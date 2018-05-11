@@ -1,0 +1,269 @@
+{
+   "checksum": "0c8c9539d2a92a82a295e1b7c4a44541",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13166589495515050",
+            "id": "6",
+            "name": "建议网站",
+            "type": "url",
+            "url": "https://ieonline.microsoft.com/#ieslice"
+         }, {
+            "date_added": "13167281672913277",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13167281999081517"
+            },
+            "name": "Interfaces in C++ (Abstract Classes)",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm"
+         }, {
+            "date_added": "13167281684750385",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13167281998385617"
+            },
+            "name": "Java i18n, GitLab, TestRail, VersionOne, DBUtils, Common CLI, Seaborn, Ansible, LOLCODE, Current Affairs 2018, Apache Commons Collections, Intellij Idea, Java 9, GSON, TestLink, Inter Process Communication (IPC), Logo, PySpark, Google Tag Manager, Adobe InDesign, IFSC Code, SAP Workflow, Scipy, Angular 4, D3js, dcjs, Rich Faces, Spring Boot,SAP Hybris, FlexBox, Axure RP, OpenShift, Apache Bench, qTest, TestLodge, Power BI, Jython, Financial Accounting, Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions, Examples, Online, Quiz, Current Affairs 2017, Aptitude Test, Verbal Ability, General Knowledge, Reasoning, Mock test, Kubernetes, Spring JDBC, Java Concurrency, Spring AOP, Gerrit, Spring MVC, Indian Polity, History, Geography, Biology, Physics, Chemistry and Economy",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/index.htm"
+         }, {
+            "date_added": "13167717031864986",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13168147292587941"
+            },
+            "name": "Effective C++ · GitBook",
+            "type": "url",
+            "url": "https://legacy.gitbook.com/book/wizardforcel/effective-cpp/details"
+         }, {
+            "date_added": "13167717037458516",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13167833586476006"
+            },
+            "name": "effective c++ - Google 搜索",
+            "type": "url",
+            "url": "https://google.uulucky.com/search?source=hp&ei=V9nKWsTWDsiWtQWf_IzwDA&q=effective+c%2B%2B&oq=effective+c%2B%2B&gs_l=psy-ab.3..0l8.51497.55764.0.56055.13.12.0.0.0.0.1049.1761.6-1j1.2.0....0...1.1.64.psy-ab..11.2.1760....0.qqMArUlkfks"
+         }, {
+            "date_added": "13167836637106031",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13167836637154690"
+            },
+            "name": "The 7 Habits of Highly Effective People PDF ( Free | 219 Pages )",
+            "type": "url",
+            "url": "https://www.pdfdrive.net/the-7-habits-of-highly-effective-people-sm7477076.html"
+         }, {
+            "date_added": "13167836942671415",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13170391438155186"
+            },
+            "name": "Google谷歌镜像站",
+            "type": "url",
+            "url": "https://chenjx.cn/google-mirrors/"
+         }, {
+            "date_added": "13167837588912574",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13167837875390253"
+            },
+            "name": "leoay.coding.me/webbook/Bookmarks",
+            "type": "url",
+            "url": "http://leoay.coding.me/webbook/Bookmarks"
+         }, {
+            "date_added": "13167837649626535",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13170415711134704"
+            },
+            "name": "leoay",
+            "type": "url",
+            "url": "https://www.leoay.cn/"
+         }, {
+            "date_added": "13168147958507171",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13168147958519951"
+            },
+            "name": "深入学习c++书单 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/zhanghaotian2011/article/details/7932378"
+         }, {
+            "date_added": "13168148249679027",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13168148469216362"
+            },
+            "name": "C++必读书籍推荐 - 全本 - 免费下载 - 计算机书籍控",
+            "type": "url",
+            "url": "http://bestcbooks.com/recommended-cpp-books/"
+         }, {
+            "date_added": "13168148728184422",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13168148728186161"
+            },
+            "name": "18 Best C++ Books For All Skill Levels",
+            "type": "url",
+            "url": "http://whatpixel.com/best-cpp-books/"
+         }, {
+            "date_added": "13168679243500601",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13168679243528192"
+            },
+            "name": "Features - Automated Driving System Toolbox - MATLAB & Simulink",
+            "type": "url",
+            "url": "https://ww2.mathworks.cn/products/automated-driving/features.html#ground-truth-labeling-"
+         }, {
+            "date_added": "13168679247003679",
+            "id": "28",
+            "meta_info": {
+               "last_visited_desktop": "13168679247013749"
+            },
+            "name": "(2 条消息)有图像标注工具推荐或者分享吗？ - 知乎",
+            "type": "url",
+            "url": "https://www.zhihu.com/question/30626971"
+         }, {
+            "date_added": "13168686758023685",
+            "id": "30",
+            "meta_info": {
+               "last_visited_desktop": "13170319859696626"
+            },
+            "name": "深度学习图像标注工具汇总 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/chaipp0607/article/details/79036312"
+         }, {
+            "date_added": "13169720594305508",
+            "id": "32",
+            "meta_info": {
+               "last_visited_desktop": "13169720594407368"
+            },
+            "name": "深度学习流行网络与数据集 - 程序园",
+            "type": "url",
+            "url": "http://www.voidcn.com/article/p-uokuwetp-bqo.html"
+         }, {
+            "date_added": "13169720673478564",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13169720673478795"
+            },
+            "name": "别磨叽，学完这篇你也是图像识别专家了 | Imagination中文技术社区",
+            "type": "url",
+            "url": "http://imgtec.eetrend.com/blog/9936"
+         }, {
+            "date_added": "13169721086385926",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13169721086386154"
+            },
+            "name": "机器学习数据集(Dataset)汇总 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/MyArrow/article/details/51828681"
+         }, {
+            "date_added": "13169786741109934",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13169787919128900"
+            },
+            "name": "各领域公开数据集下载 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/c2a2o2/article/details/74942545"
+         }, {
+            "date_added": "13169786847266659",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13169787940537327"
+            },
+            "name": "目标检测--Faster RCNN2 – Fix you",
+            "type": "url",
+            "url": "https://saicoco.github.io/object-detection-4/"
+         }, {
+            "date_added": "13169787978966610",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13169787978966737"
+            },
+            "name": "用自己的数据集训练Faster-RCNN的几种方法 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/hongxingabc/article/details/79039537"
+         }, {
+            "date_added": "13169803601968375",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13169873379094803"
+            },
+            "name": "(47 条消息)如何解释召回率与准确率？ - 知乎",
+            "type": "url",
+            "url": "https://www.zhihu.com/question/19645541"
+         }, {
+            "date_added": "13169893215382126",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13169893215382270"
+            },
+            "name": "(52 条消息)场景文字识别是新技术还是原有技术的优化？ 目前的难点在哪？ - 知乎",
+            "type": "url",
+            "url": "https://www.zhihu.com/question/23869838"
+         }, {
+            "date_added": "13170242320515763",
+            "id": "44",
+            "meta_info": {
+               "last_visited_desktop": "13170303590520540"
+            },
+            "name": "计算机视觉-相机内参数和外参数 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/liulina603/article/details/52953414"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13166589495515050",
+                  "id": "48",
+                  "name": "建议网站",
+                  "type": "url",
+                  "url": "https://ieonline.microsoft.com/#ieslice"
+               } ],
+               "date_added": "13170477554500523",
+               "date_modified": "0",
+               "id": "47",
+               "name": "Links",
+               "type": "folder"
+            }, {
+               "date_added": "13168664469728374",
+               "id": "49",
+               "name": "爱词霸在线词典",
+               "type": "url",
+               "url": "http://www.iciba.com/?=2016pcbookmark"
+            } ],
+            "date_added": "13170477554500472",
+            "date_modified": "0",
+            "id": "46",
+            "name": "从 IE 中导入",
+            "type": "folder"
+         } ],
+         "date_added": "13166605440714354",
+         "date_modified": "13170242320515763",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13166605440714359",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13166605440714360",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
