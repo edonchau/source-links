@@ -1,5 +1,5 @@
 {
-   "checksum": "0c8c9539d2a92a82a295e1b7c4a44541",
+   "checksum": "48e3b1c7a1d75e20789dcd34271b349a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -21,7 +21,7 @@
             "date_added": "13167281684750385",
             "id": "10",
             "meta_info": {
-               "last_visited_desktop": "13167281998385617"
+               "last_visited_desktop": "13170565160757728"
             },
             "name": "Java i18n, GitLab, TestRail, VersionOne, DBUtils, Common CLI, Seaborn, Ansible, LOLCODE, Current Affairs 2018, Apache Commons Collections, Intellij Idea, Java 9, GSON, TestLink, Inter Process Communication (IPC), Logo, PySpark, Google Tag Manager, Adobe InDesign, IFSC Code, SAP Workflow, Scipy, Angular 4, D3js, dcjs, Rich Faces, Spring Boot,SAP Hybris, FlexBox, Axure RP, OpenShift, Apache Bench, qTest, TestLodge, Power BI, Jython, Financial Accounting, Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions, Examples, Online, Quiz, Current Affairs 2017, Aptitude Test, Verbal Ability, General Knowledge, Reasoning, Mock test, Kubernetes, Spring JDBC, Java Concurrency, Spring AOP, Gerrit, Spring MVC, Indian Polity, History, Geography, Biology, Physics, Chemistry and Economy",
             "type": "url",
@@ -57,7 +57,7 @@
             "date_added": "13167836942671415",
             "id": "19",
             "meta_info": {
-               "last_visited_desktop": "13170391438155186"
+               "last_visited_desktop": "13170563566626520"
             },
             "name": "Google谷歌镜像站",
             "type": "url",
@@ -241,9 +241,27 @@
             "id": "46",
             "name": "从 IE 中导入",
             "type": "folder"
+         }, {
+            "date_added": "13170499808281044",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13170499808281157"
+            },
+            "name": "Computer vision for dummies - A blog about intelligent algorithms, machine learning, computer vision, datamining and more.",
+            "type": "url",
+            "url": "http://www.visiondummy.com/"
+         }, {
+            "date_added": "13170579651576759",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13170579651577028"
+            },
+            "name": "漫谈机器学习经典算法—增强学习与马尔科夫决策过程 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/lanbing510/article/details/49912739"
          } ],
          "date_added": "13166605440714354",
-         "date_modified": "13170242320515763",
+         "date_modified": "13170579651576759",
          "id": "1",
          "name": "书签栏",
          "type": "folder"
